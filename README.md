@@ -2,9 +2,6 @@
 
 DareAISearch frontend assignment, **Problem Statement 1**: a data explorer over 12,000 orders that stays fast and never shows the wrong results.
 
-- Live: _add Vercel URL here_
-- Demo video: _add link here_
-
 ## Running it
 
 ```bash
